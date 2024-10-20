@@ -16,6 +16,11 @@ username = input("Username: ")
 print ("Processing...")
 time.sleep(2)
 
+if username=="ryry-codr":
+  print ("Hi Ryan!")
+else:
+ pass
+
 password = input("Password: ")
 print ("Processing...")
 time.sleep(2)
